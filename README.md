@@ -29,7 +29,7 @@ Then paste these into **App Store Connect → App Information**:
 
 - **Support URL:** `https://vahandrnoyan.github.io/zqinta/support.html`
 - **Privacy Policy URL:** `https://vahandrnoyan.github.io/zqinta/privacy.html`
-- **Issues:** `https://github.com/VahanDrnoyan/CascadeAI/issues`
+- **Issues:** `https://github.com/VahanDrnoyan/zqinta/issues`
 
 > **Note on URLs:** GitHub Pages renders `support.md` to `/support.html` (Jekyll is on by default). The raw `/support.md` link also works but the rendered `.html` page looks cleaner for the App Store.
 

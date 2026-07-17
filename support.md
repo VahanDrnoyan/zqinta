@@ -19,7 +19,7 @@ We aim to reply within **2 business days**.
 Two ways:
 
 1. **Email us** (above) — best if you're not a developer.
-2. **Open a GitHub issue:** [VahanDrnoyan/CascadeAI/issues](https://github.com/VahanDrnoyan/CascadeAI/issues)
+2. **Open a GitHub issue:** [VahanDrnoyan/zqinta/issues](https://github.com/VahanDrnoyan/zqinta/issues)
 
 When you open an issue, a short form will prompt you for the details we need (macOS version, app version, steps to reproduce).
 
