@@ -1,6 +1,6 @@
-# Knowledge Universe — Public Support Repo
+# zQinta — Public Support Repo
 
-Public-facing support site for **Knowledge Universe** (a Mac App Store app). Kept separate from the private source repository so that:
+Public-facing support site for **zQinta** (a macOS app). Kept separate from the private source repository so that:
 
 - 🔒 The app source stays **private**.
 - 🌐 End users can **open GitHub Issues** here (impossible on a private repo).
@@ -27,9 +27,9 @@ Public-facing support site for **Knowledge Universe** (a Mac App Store app). Kep
 
 Then paste these into **App Store Connect → App Information**:
 
-- **Support URL:** `https://vahandrnoyan.github.io/KnowledgeUniverse/support.html`
-- **Privacy Policy URL:** `https://vahandrnoyan.github.io/KnowledgeUniverse/privacy.html`
-- **Issues:** `https://github.com/VahanDrnoyan/KnowledgeUniverse/issues`
+- **Support URL:** `https://vahandrnoyan.github.io/zqinta/support.html`
+- **Privacy Policy URL:** `https://vahandrnoyan.github.io/zqinta/privacy.html`
+- **Issues:** `https://github.com/VahanDrnoyan/CascadeAI/issues`
 
 > **Note on URLs:** GitHub Pages renders `support.md` to `/support.html` (Jekyll is on by default). The raw `/support.md` link also works but the rendered `.html` page looks cleaner for the App Store.
 

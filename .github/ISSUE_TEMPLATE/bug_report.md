@@ -10,7 +10,7 @@ labels: bug
 **macOS version**
 <!-- e.g. macOS 15.5 -->
 
-**Knowledge Universe app version**
+**zQinta app version**
 <!-- Settings → About -->
 
 **Steps to reproduce**
